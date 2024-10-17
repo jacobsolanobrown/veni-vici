@@ -10,5 +10,6 @@ Time spent: **4** hours spent in total
 
 The following **required** functionality is completed:
 
-- [] **I was not able to fetch the cat API Data**
-- Veni-vici2 is the main app. Disregard the other attempt.
+- **I was not able to fetch the cat API Data**
+- **Veni-vici2 is the main app. Disregard the other attempt.**
+
